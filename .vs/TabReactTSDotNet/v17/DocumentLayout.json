@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\TabReactTSDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}|TeamsApp\\TeamsApp.ttkproj|e:\\source\\tabreacttsdotnet\\teamsapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\source\\TabReactTSDotNet\\TeamsApp\\README.md",
+              "RelativeDocumentMoniker": "TeamsApp\\README.md",
+              "ToolTip": "E:\\source\\TabReactTSDotNet\\TeamsApp\\README.md",
+              "RelativeToolTip": "TeamsApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-09T08:39:50.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
