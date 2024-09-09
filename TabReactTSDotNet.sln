@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabReactTSDotNet", "TabReactTSDotNet.csproj", "{E06A0C7A-DEED-4D23-A7F8-0EB9BCEF9682}"
-EndProject
 Project("{A9E3F50B-275E-4AF7-ADCE-8BE12D41E305}") = "TeamsApp", "TeamsApp\TeamsApp.ttkproj", "{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabReactTSDotNet.Server", "TabReactTSDotNet.Server\TabReactTSDotNet.Server.csproj", "{46C056A6-0347-4AAD-A762-D89AABFC3B2C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tabreacttsdotnet.client", "tabreacttsdotnet.client\tabreacttsdotnet.client.esproj", "{4580618E-EA77-4EEC-8665-216AE6D058BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E06A0C7A-DEED-4D23-A7F8-0EB9BCEF9682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E06A0C7A-DEED-4D23-A7F8-0EB9BCEF9682}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E06A0C7A-DEED-4D23-A7F8-0EB9BCEF9682}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E06A0C7A-DEED-4D23-A7F8-0EB9BCEF9682}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF2DEF7-3C01-4A0A-B000-17B51E8C1658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C056A6-0347-4AAD-A762-D89AABFC3B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C056A6-0347-4AAD-A762-D89AABFC3B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C056A6-0347-4AAD-A762-D89AABFC3B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C056A6-0347-4AAD-A762-D89AABFC3B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4580618E-EA77-4EEC-8665-216AE6D058BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4580618E-EA77-4EEC-8665-216AE6D058BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4580618E-EA77-4EEC-8665-216AE6D058BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4580618E-EA77-4EEC-8665-216AE6D058BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4580618E-EA77-4EEC-8665-216AE6D058BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4580618E-EA77-4EEC-8665-216AE6D058BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
