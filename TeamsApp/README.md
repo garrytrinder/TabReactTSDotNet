@@ -1,5 +1,8 @@
 # Welcome to Teams Toolkit!
 
+> [!NOTE]
+> This sample is an alternative to the out of the box Blazor based Tab template. It uses the out of the box React and ASP.NET core template.
+
 ## Quick Start
 
 1. Right-click the 'TeamsApp' project in Solution Explorer and select Teams Toolkit > Prepare Teams App Dependencies
