@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Microsoft Teams",
+    "Projects": [
+      {
+        "Path": "TeamsApp\\TeamsApp.ttkproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Microsoft Teams (browser)"
+      },
+      {
+        "Path": "TabReactTSDotNet.Server\\TabReactTSDotNet.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "tabreacttsdotnet.client\\tabreacttsdotnet.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Microsoft 365",
+    "Projects": [
+      {
+        "Path": "TeamsApp\\TeamsApp.ttkproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Microsoft 365 app (browser)"
+      },
+      {
+        "Path": "TabReactTSDotNet.Server\\TabReactTSDotNet.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "tabreacttsdotnet.client\\tabreacttsdotnet.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Outlook",
+    "Projects": [
+      {
+        "Path": "TeamsApp\\TeamsApp.ttkproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Outlook (browser)"
+      },
+      {
+        "Path": "TabReactTSDotNet.Server\\TabReactTSDotNet.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "tabreacttsdotnet.client\\tabreacttsdotnet.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
